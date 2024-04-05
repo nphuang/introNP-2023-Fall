@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "types.h": "c",
+        "time.h": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "initializer_list": "c",
+        "cmath": "cpp",
+        "cstring": "cpp"
+    }
+}
